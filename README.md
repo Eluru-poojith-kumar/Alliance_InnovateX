@@ -37,6 +37,7 @@ The line chart displays the trend of income and expenses over time.
 Download Excel:
 Click the "Download Excel" button to export the transaction history as an Excel file.
 
+Video link: https://drive.google.com/file/d/1rICSINwF0jiTV7lFtwzW6l1UaZJjx10G/view?usp=sharing
 
 Code Structure
 HTML: The structure of the application is defined in the index.html file.
